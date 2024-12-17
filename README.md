@@ -2,10 +2,6 @@
 
 I'm Nathan Tesfaye Haimanot, a grade 9 student at St Mother Theresa.
 
-**nathan-haimanot/nathan-haimanot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <h2>✍ Programming Languages</h2>
 
 <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=TypeScript&logoColor=white"></a>
