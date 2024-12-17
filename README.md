@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Nathan Tesfaye Haimanot, a grade 9 student at St Mother Theresa.
+I'm Nathan Tesfaye Haimanot, a grade 9 student at St Mother Theresa. I am fairly new in coding and 2024 is my first real experience with programming.
 
 <h2>✍ Programming Languages</h2>
 
